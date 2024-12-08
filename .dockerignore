@@ -1,0 +1,15 @@
+.idea
+.git
+.env
+VERSIONS.md
+AUTHORS.md
+*.log
+Makefile
+.gitignore
+.gitattributes
+.editorconfig
+logs
+Dockerfile
+LICENSE
+MANIFEST.in
+scenario.pl
