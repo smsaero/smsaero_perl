@@ -5,7 +5,7 @@ WriteMakefile(
     VERSION_FROM => 'lib/SmsAero.pm',
     AUTHOR       => 'SmsAero <admin@smsaero.ru>',
     ABSTRACT     => 'Send SMS via smsaero.ru',
-    LICENSE      => 'perl',
+    LICENSE      => 'mit',
     PREREQ_PM     => {
         'JSON'                => 0,
         'LWP::UserAgent'      => 0,
